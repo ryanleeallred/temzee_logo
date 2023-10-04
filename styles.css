@@ -29,3 +29,19 @@ h1 {
 sup {
   font-size: 40vh;
 }
+
+.user {
+  background: linear-gradient(180deg, #22d3ee 0%, #7953cd 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 50vh;
+  align-self: center;
+  margin: 0 auto;
+}
+
+.cover {
+  background: linear-gradient(180deg, #22d3ee 0%, #7953cd 80%);
+  width: 80%;
+  height: 60%;
+  margin: 50px auto;
+}
