@@ -45,3 +45,11 @@ sup {
   height: 60%;
   margin: 50px auto;
 }
+
+.temzee {
+  background: linear-gradient(90deg, #22d3ee 0%, #7953cd 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 25vh;
+  font-weight: 900;
+}
